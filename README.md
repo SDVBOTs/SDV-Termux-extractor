@@ -34,6 +34,7 @@
 
 ```bash
 $ python ak2.py
+<details/>
 
 1. Enter your Apni Kaksha Token
 
